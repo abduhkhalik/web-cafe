@@ -7,7 +7,7 @@ const Navbar = () => {
       <nav className="container">
         <div className="nav_block">
           <div className="header_logo">
-            <img src={Logo} className="w-[150px] lg:w-auto" alt="Elemes.id" />
+            <img src={Logo} className="w-[140px] lg:w-auto" alt="Elemes.id" />
           </div>
           <div className="nav_link hidden lg:block">
             <ul className="lg:flex lg:gap-10">
